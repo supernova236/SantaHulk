@@ -1,5 +1,5 @@
 # SantaHulk
-santa hulk binary classification
+[Santa Hulk binary classification]
 
 Make a custom dataset by using bing downloader
 
