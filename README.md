@@ -3,7 +3,7 @@
 
 Make a custom dataset by using bing downloader
 
-Train with three different model below
+Train with three different models below
 
 custom model with three convolutional layers, 
 
